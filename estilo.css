@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #a6c3b4;	
+}
+.TituloP{
+	text-align: center;
+	font-size: 45px;
+}
+.imgCabezera{
+	width: 260px;
+	height: 160	px;
+}
+.tablap{
+	padding: 10px;	
+}
+.cabezera{
+	background-color: #66A182;
+}
+.imgNews{
+	width: 240px;
+	height: 140	px;
+}
+.news{
+	width: 85%;
+	align-self: center;
+	padding-left: 5%;
+	padding-top: 25px;
+}
+nav{
+	margin: 10px;
+	padding: 10px;	
+	width: 30%;	
+	background-color: #66A182;	
+}
+h6{
+	font-size: 18px;
+	color:#fff;
+}
+.pie{
+	background-color: #333;
+	font:#fff;
+	text-align: center;
+}
